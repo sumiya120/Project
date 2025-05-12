@@ -1,0 +1,15 @@
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\bin\Debug\Online Book Shope project3.exe.config
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\bin\Debug\Online Book Shope project3.exe
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\bin\Debug\Online Book Shope project3.pdb
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online Book Shope project3.csproj.AssemblyReference.cache
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online_Book_Shope_project3.Dashboard.resources
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online_Book_Shope_project3.Properties.Resources.resources
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online_Book_Shope_project3.Users.resources
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online Book Shope project3.csproj.GenerateResource.cache
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online Book Shope project3.csproj.CoreCompileInputs.cache
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online Book Shope project3.exe
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online Book Shope project3.pdb
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online_Book_Shope_project3.Book1.resources
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online_Book_Shope_project3.Billing.resources
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online_Book_Shope_project3.Login.resources
+C:\Users\Surface\Desktop\Online Book Shope project3\Online Book Shope project3\obj\Debug\Online_Book_Shope_project3.AdminLogin.resources
